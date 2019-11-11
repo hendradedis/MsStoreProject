@@ -1,0 +1,48 @@
+{
+  "WooCommerce": {
+    "url": "https://forcetechnology.id",
+    "consumerKey": "ck_4e4568880ce3476a909d9c794a92933fb19473db",
+    "consumerSecret": "cs_3aa24f0cea0957a7eafea15b287d0e76864fe414"
+  },
+  "HorizonLayout": [
+ 
+    {
+      "layout": "circleCategory" 
+    },
+
+    {
+      "layout": "bannerHigh",
+      "tag": 273
+    },
+
+
+    // {
+    //   "imageBanner": "http://s3-ap-southeast-1.amazonaws.com/mstore-bucket.io/wp-content/uploads/2019/02/25142145/woman-large.png",
+    //   "layout": "bannerImage",
+    //   "height": 118,
+    //   "category": 56
+    // },
+    
+    // {
+    //   "imageBanner": "http://s3-ap-southeast-1.amazonaws.com/mstore-bucket.io/wp-content/uploads/2019/02/25142102/MAN-large.png",
+    //   "layout": "bannerImage",
+    //   "height": 118,
+    //   "category": 52
+    // },
+  
+    {
+      "name": "featureProducts",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 79
+    },
+    {
+      "name": "bagsCollections",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 68
+    }
+  ],
+
+  "MainColor": "#3FC1BE"
+}
